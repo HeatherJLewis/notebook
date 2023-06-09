@@ -1,6 +1,6 @@
 # Learning CSS
 
-Notes made from: [Steve Girffith's Learning CSS](https://www.youtube.com/watch?v=NZEz4yNITd8&list=PLyuRouwmQCjl4wTSNbb8RTKZuyMhoIxBe&index=5).
+Notes made from: [Steve Girffith's Learning CSS](https://www.youtube.com/playlist?list=PLyuRouwmQCjl4wTSNbb8RTKZuyMhoIxBe).
 
 ## CSS Padding and Margins
 
